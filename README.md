@@ -7,10 +7,22 @@
 ##### C107118245  廖浩翔
 ###### C107118245  廖浩翔
 
-| 我在左邊 | 我在中間 | 我在右邊 |
-| :...... | ....:.... | ......: |
-| 123 | 123 | 123 |
-| 456 | 456 | 456 |
+
+|Left | Center | Right |
+|:----|:------:|-------:|
+|1st  | 1st    | 1st  |
+|2nd testing |2nd testing|2nd testing|
+
+[NKUST](https://www.nkust.edu.tw/)
+
+<https://www.nkust.edu.tw/>
+
+
+
+|我在左邊 | 我在中間 | 我在右邊 |
+|:-------| :--------: |-------: |
+|123 | 123 | 123 |
+|456 | 456 | 456 |
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
