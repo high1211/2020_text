@@ -8,11 +8,6 @@
 ###### C107118245  廖浩翔
 
 
-|Left | Center | Right |
-|:----|:------:|-------:|
-|1st  | 1st    | 1st  |
-|2nd testing |2nd testing|2nd testing|
-
 [NKUST](https://www.nkust.edu.tw/)
 
 <https://www.nkust.edu.tw/>
